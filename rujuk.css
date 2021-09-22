@@ -25,8 +25,9 @@ legend{color:inherit;papar:table;penuh-width:100%;padding:0;white-space:normal}t
 ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}
 /* perisian klas adalah seperti berikut: */
 html,badan{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
-h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.my-serif{font-family:serif}
-h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.my-wide{letter-spacing:4px}
+k1{font-size:36px}h
+k2{font-size:30px}k3{font-size:24px}k4{font-size:20px}k5{font-size:18px}k6{font-size:16px}.my-serif{font-family:serif}
+k1,k2,k3,k4,k5,k6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.my-wide{letter-spacing:4px}
 hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .imej{penuh-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
 .jadual,.jadual-semua{border-collapse:collapse;border-spacing:0;width:100%;papar:table}.jadual-semua{border:1px solid #ccc}
